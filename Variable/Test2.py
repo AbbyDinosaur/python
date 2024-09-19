@@ -22,14 +22,18 @@ num1, num2, num3 = 1, 2, 3
 # div = 50 // 3
 
 
-phone = 1250
-boxes = phone // 10
-pay = (boxes * 10)+ boxes * 10 * 0.5
-print(f"pay = {pay}$ ")
+# phone = 1250
+# boxes = phone // 10
+# pay = (boxes * 10)+ boxes * 10 * 0.5
+# print(f"pay = {pay}$ ")
 
-m = 300
-# m = m + int(input ("Enter Salary :"));
-# m += int(input("Enter Salary : "))
-m -= int(input("Enter Salary : "))
+# m = 300
+# # m = m + int(input ("Enter Salary :"));
+# # m += int(input("Enter Salary : "))
+# m -= int(input("Enter Salary : "))
 
-print(m)
+# print(m)
+
+a = 300 
+b = 300
+print (a is b)
